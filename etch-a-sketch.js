@@ -31,8 +31,7 @@ for (let i = 0; i < allElements.length; i++) {
     console.log("color:", randomClr);
     this.style.backgroundColor = randomClr;  
     // this.style.backgroundColor = 'black';  
-    // this.style.backgroundColor = 'rgb('+66+','+107+','+87+')';
-       
+           
          });
      }
     }
